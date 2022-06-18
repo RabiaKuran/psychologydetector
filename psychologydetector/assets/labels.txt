@@ -1,0 +1,7 @@
+Sad
+Happy
+Worried
+Surprised
+Disgust
+Angry
+Scared
