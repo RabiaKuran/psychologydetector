@@ -7,7 +7,7 @@ Bu sayfanın içinde kişinin görüntüsü alınacak, alınan görüntü tflite
 Alınan veriler sonucunda kişinin durum bilgisine göre mutlu mu, üzgün mü, kaygılı mı vs. buna göre uygun mesaj bilgisi kullanıcıya verilecek. 
 Kullanıcının fotoğrafı ekleyebilmesi için 2 seçeneği var. İster kameradan anlık olarak çeker isterse galeriden önceden kaydettiği fotoğrafı seçebilir.
 
-<img src="https://github.com/RabiaKuran/psychologydetector/blob/main/screen1.jpg" height="600">          <img src="https://github.com/RabiaKuran/psychologydetector/blob/main/Screen3.jpg" height="600"> <img src="https://github.com/RabiaKuran/psychologydetector/blob/main/Screen2.jpg" height="600">
+<img src="https://github.com/RabiaKuran/psychologydetector/blob/main/screen1.jpg" height="600">          <img src="https://github.com/RabiaKuran/psychologydetector/blob/main/Screen3.jpg" height="600"> <img src="https://github.com/RabiaKuran/psychologydetector/blob/main/Screen2.jpg" height="600"> <img src="https://github.com/RabiaKuran/psychologydetector/blob/main/Screen2.jpg" height="600">
 
 
 Eğittiğim modelimi Visual Studio Code uygulaması içinde bulunan uygulamamın assets klasörünün içerisine gömdüm. TensorFlow uygulamasının çalışabilmesi için ilk önce pubspec.yaml dosyasına ‘tflite:’ paketini ve assets(varlıklar) kısmına modelinin ve labellerin yollarını ayrı ayrı göstererek ekledim. İkinci olarak android/app/build.gradle yoluna 
